@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://unhc-hosting-the-displaced-app.streamlit.app)
+
 # Hosting the Displaced — Streamlit brief
 
 An interactive policy brief built from the *Global Refugee & Migration Dataset 2026*
