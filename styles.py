@@ -13,7 +13,7 @@ CSS = """
 
 HERO = """<div class="hero"><h1>🌍 Hosting the Displaced</h1><p>Absolute numbers versus capacity · 1951-2025 · UNHCR · World Bank · UCDP/PRIO · DHS</p></div>"""
 
-BANNER = """<div class="banner">⚠️ <b>Policy brief, not a live indicator.</b> Static snapshot (2026-07-31). UNHCR registered counts and DHS modelled estimates are never combined here.</div>"""
+BANNER = """<div class="banner"> <b>Policy brief, not a live indicator.</b> Static snapshot (2026-07-31). UNHCR registered counts and DHS modelled estimates are never combined here.</div>"""
 
 def section_title(text):
     return '<div class="section-title">' + text + '</div>'
