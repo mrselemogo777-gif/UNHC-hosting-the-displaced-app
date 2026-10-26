@@ -5,7 +5,7 @@
 An interactive policy brief built from the *Global Refugee & Migration Dataset 2026*
 (UNHCR · World Bank · UCDP/PRIO · DHS).
 
-**Developer:** Legakwa Selemogo
+**Researcher:** Legakwa Selemogo
 
 Toggle **absolute** refugee host counts against **per-1,000-residents** counts for
 2022–2024. The finding that survives the toggle: the countries hosting the most
